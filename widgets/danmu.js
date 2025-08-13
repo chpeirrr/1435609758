@@ -19,12 +19,12 @@
  */
 WidgetMetadata = {
   id: "forward.danmu",
-  title: "Rpeccc",
+  title: "Rpec的弹幕",
   version: "1.0.1",
-  requiredVersion: "0.0.2",
+  requiredVersion: "0.0.3",
   description: "从指定服务器获取弹幕",
   author: "Forward",
-  site: "http://172.20.10.2:7768/api/XL89aXCR1mlrYBT7U67k",
+  site: "666",
   globalParams: [
     {
       name: "server",
@@ -32,8 +32,8 @@ WidgetMetadata = {
       type: "input",
       placeholders: [
         {
-          title: "Rpec",
-          value: "http://172.20.10.2:7768/api/XL89aXCR1mlrYBT7U67k",
+          title: "Rpec的弹幕",
+          value: "http://156.226.182.244:7768/api/c6A31JFmbyNpXpYPCRMs",
         },
       ],
     },
