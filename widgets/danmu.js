@@ -19,7 +19,7 @@
  */
 WidgetMetadata = {
   id: "forward.danmu",
-  title: "Rpec",
+  title: "Rpeccc",
   version: "1.0.1",
   requiredVersion: "0.0.2",
   description: "从指定服务器获取弹幕",
