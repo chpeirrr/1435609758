@@ -19,8 +19,8 @@
  */
 WidgetMetadata = {
   id: "forward.danmu",
-  title: "自定义弹幕",
-  version: "1.0.0",
+  title: "Rpec",
+  version: "1.0.1",
   requiredVersion: "0.0.2",
   description: "从指定服务器获取弹幕",
   author: "Forward",
@@ -32,8 +32,8 @@ WidgetMetadata = {
       type: "input",
       placeholders: [
         {
-          title: "弹弹play",
-          value: "https://api.dandanplay.net",
+          title: "Rpec",
+          value: "http://172.20.10.2:7768/api/XL89aXCR1mlrYBT7U67k",
         },
       ],
     },
