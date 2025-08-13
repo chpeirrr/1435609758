@@ -20,8 +20,8 @@
 WidgetMetadata = {
   id: "forward.danmu",
   title: "Rpec的弹幕",
-  version: "1.0.1",
-  requiredVersion: "0.0.3",
+  version: "1.0.2",
+  requiredVersion: "0.0.2",
   description: "从指定服务器获取弹幕",
   author: "Forward",
   site: "666",
