@@ -33,7 +33,7 @@ WidgetMetadata = {
       placeholders: [
         {
           title: "Rpec的弹幕",
-          value: "http://106.53.61.181:7768/api/w95M7TcwIJX0nJpRIfi3",
+          value: "http://134.175.168.103:7768/api/v1/p50Uror2y3OFvSIa1gVm",
         },
       ],
     },
